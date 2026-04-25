@@ -1,2 +1,18 @@
-# MLR_project
-Linear regression analysis of stock market index prices using economic indicators such as interest rates, unemployment rates, and GDP. The project compares multiple models, evaluates performance using R², and generates predictions based on selected features.
+# Stock Market Regression Analysis
+
+This project uses linear regression to predict stock index prices based on:
+- Interest Rate
+- Unemployment Rate
+- GDP
+
+## What it does
+- Visualizes relationships between variables
+- Trains multiple regression models
+- Compares models using R² score
+- Makes predictions using best models
+
+## Libraries
+- pandas
+- matplotlib
+- sklearn
+- statsmodels
